@@ -10,6 +10,7 @@ import {
   
   Keyboard,
   Alert,
+  SafeAreaView,
 } from 'react-native';
 import axios from 'axios';
 
